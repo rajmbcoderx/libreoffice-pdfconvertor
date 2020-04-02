@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/libreoffice-pdf-convertor/static/css/main.c65fa01a.chunk.css",
+    "main.js": "/libreoffice-pdf-convertor/static/js/main.95829669.chunk.js",
+    "main.js.map": "/libreoffice-pdf-convertor/static/js/main.95829669.chunk.js.map",
+    "runtime-main.js": "/libreoffice-pdf-convertor/static/js/runtime-main.f2e24fc9.js",
+    "runtime-main.js.map": "/libreoffice-pdf-convertor/static/js/runtime-main.f2e24fc9.js.map",
+    "static/js/2.e21eb5a5.chunk.js": "/libreoffice-pdf-convertor/static/js/2.e21eb5a5.chunk.js",
+    "static/js/2.e21eb5a5.chunk.js.map": "/libreoffice-pdf-convertor/static/js/2.e21eb5a5.chunk.js.map",
+    "index.html": "/libreoffice-pdf-convertor/index.html",
+    "precache-manifest.9740a3975b1fc4514dbbc6680364d2db.js": "/libreoffice-pdf-convertor/precache-manifest.9740a3975b1fc4514dbbc6680364d2db.js",
+    "service-worker.js": "/libreoffice-pdf-convertor/service-worker.js",
+    "static/css/main.c65fa01a.chunk.css.map": "/libreoffice-pdf-convertor/static/css/main.c65fa01a.chunk.css.map",
+    "static/js/2.e21eb5a5.chunk.js.LICENSE.txt": "/libreoffice-pdf-convertor/static/js/2.e21eb5a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2e24fc9.js",
+    "static/js/2.e21eb5a5.chunk.js",
+    "static/css/main.c65fa01a.chunk.css",
+    "static/js/main.95829669.chunk.js"
+  ]
+}
